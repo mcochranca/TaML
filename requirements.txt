@@ -7,3 +7,5 @@ scikit-learn>=1.0
 scipy
 seaborn
 tensorflow==2.8.1
+fonttools>=4.61.0 # not directly required, pinned by Snyk to avoid a vulnerability
+tornado>=6.5.3 # not directly required, pinned by Snyk to avoid a vulnerability
