@@ -7,3 +7,4 @@ scikit-learn>=1.0
 scipy
 seaborn
 tensorflow==2.8.1
+nbconvert>=7.17.0 # not directly required, pinned by Snyk to avoid a vulnerability
